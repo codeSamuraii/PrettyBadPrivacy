@@ -1,0 +1,8 @@
+[package]
+name = "pbp"
+version = "0.1.0"
+authors = ["Rémi Héneault <remi@heneault.fr>"]
+edition = "2018"
+
+[dependencies]
+base64 = "0.10.1"
